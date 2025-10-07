@@ -1,0 +1,13 @@
+com\example\model\Transaction.class
+com\example\model\Account.class
+com\example\controller\TransactionController.class
+com\example\controller\UserController.class
+com\example\controller\AccountController.class
+com\example\repository\UserRepository.class
+com\example\repository\AccountRepository.class
+com\example\controller\WebController.class
+com\example\repository\TransactionRepository.class
+com\example\model\User.class
+com\example\console\ConsoleInterface.class
+com\example\service\FinanceService.class
+com\example\PersonalFinanceTrackerApplication.class
